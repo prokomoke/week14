@@ -1,5 +1,5 @@
 
-package gometri;
+package geometri;
 
 class Formula {
 
